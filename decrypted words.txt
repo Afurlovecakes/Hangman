@@ -1,0 +1,50 @@
+EASY.TXT
+
+computer → frpsxwhu
+code → frgh
+programming → surjudpplqj
+machine → pdfklqh
+processor → surfhvvru
+router → urxwhu
+worm → zrup
+application → dssolfdwlrq
+database → gdwdedvh
+access → dffhvv
+bit → elw
+internet → lqwhuqhw
+encrypt → hqfubsw
+protocol → surwrfro
+
+
+
+NORMAL.TXT
+
+algorithm → dojrulwkp
+canvas → fdqydv
+function → ixqfwlrq
+pointer → srlqwhu
+library → oleudub
+syntax → vbqwda
+server → vhuyhu
+console → frqvroh
+module → prgxoh
+network → qhwzrun
+virtual → yluwxdo
+object → remhfw
+
+
+
+HARD.TXT
+
+multithreading → pxowlwkuhdglqj
+encapsulation → hqfdsvxodwlrq
+polymorphism → srobprusklvp
+normalization → qrupdolcdwlrq
+cryptography → fubswrjudskb
+synchronization → vbqfkurqlcdwlrq
+microcontroller → plfurfrqwuroohu
+architecture → dufklwhfwxuh
+tokenization → wrnhqlcdwlrq
+transformation → wudqvirupdwlrq
+decomposition → ghfrpsrvlwlrq
+rendezvous → uhqghcyrxv
